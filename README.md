@@ -1,2 +1,1 @@
-# test
-for printf project
+readme
